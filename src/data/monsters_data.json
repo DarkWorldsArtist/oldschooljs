@@ -13176,7 +13176,7 @@
 		"magicDamage": 0,
 		"isSlayerMonster": true,
 		"slayerLevelRequired": 1,
-		"slayerXP": 52,
+		"slayerXP": 275,
 		"assignableSlayerMasters": ["chaeldar", "nieve","duradel"]
 	}
 }
